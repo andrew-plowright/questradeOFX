@@ -1,0 +1,4 @@
+^scratch.R
+^private
+^.*\.Rproj$
+^\.Rproj\.user$
